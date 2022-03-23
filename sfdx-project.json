@@ -3,7 +3,8 @@
     {
       "path": "force-app",
       "default": true
-    }
+    },
+    {"path": "salesforce"}
   ],
   "name": "Salesforce Learning",
   "namespace": "",
